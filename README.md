@@ -3,6 +3,23 @@ Record of major updates to server organization and function
 
 <h2>Update 20230123</h2>
 <h3>Overview:</h3>
+<p> Rules were updated to reflect changes to server structure. A reaction gate was implemented to manage server access. </p>
+<h3>Added:</h3>
+<ul>
+<li>Guild Hall - a role-locked category for artists and writers to share their work</li>
+<ul> 
+<li> Artists' Guild role and channel - channel for general art discussion, tips, etc. Thread permissions for artist studio threads.</li>
+<li> Writers' Guild role and channel - channel for general writing discussion, tips, etc. Thread permissions for writint space creation. </li>
+</ul>
+<li>New Server Overview channel with updated rules and link to server directory and changelog</li>
+</ul>
+<h3>Removed:</h3>
+<ul>
+<li>#welcome - replaced by #server-overview</li>
+</ul>
+<br>
+<h2>Update 20230123</h2>
+<h3>Overview:</h3>
 <p>In order to accommodate the substantial server and series growth, channels and threads have been reorganized. Since this server is an unofficial but dedicated fandom space, these changes have been made to help streamline conversation and reduce opportunities for conflict.</p>
 <h4>Highlights:</h4>
 <ul>
